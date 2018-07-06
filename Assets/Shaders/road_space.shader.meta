@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 80f541aedabbafe4fb196a0cb4d1c2d4
+timeCreated: 1497221205
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _road_tex: {fileID: 2800000, guid: cb33353b3acc0c34e97dc69341303254, type: 3}
+  - _dither_tex: {fileID: 2800000, guid: 2fadaee653cb15b4fb84eafc31a33730, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
